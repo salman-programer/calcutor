@@ -1,0 +1,10 @@
+input{
+    margin-left: 5px;
+}
+body{
+    background-color: rgba(111, 255, 0, 0.709);
+}
+.caracter{
+    border: 1px solid rebeccapurple;
+    background-color: red;
+}
